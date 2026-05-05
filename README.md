@@ -6,10 +6,10 @@
 
   | Project | Student | Live Demo |
   |---------|---------|-----------|
-  | Fake News Detection | Rania Al-Hassan | [Visit](https://fake-news-system-eddt.onrender.com) |
-  | Image Forgery Detection using Copy Move and Splicing | Khalid Mansour | [Visit](https://forensiq-detector.onrender.com) |
-  | Fake Voice Detection | Sara Al-Otaibi | [Visit](https://fake-voice-detection-using-ml.vercel.app/) |
-  | Video Forgery Detector | Omar Zayed | [Visit](https://video-forgery-detector-2.onrender.com/) |
+  | Fake News Detection | Shivam Rana | [Visit](https://fake-news-system-eddt.onrender.com) |
+  | Image Forgery Detection using Copy Move and Splicing | Shiven Gupta | [Visit](https://forensiq-detector.onrender.com) |
+  | Fake Voice Detection | Souvick Dey | [Visit](https://fake-voice-detection-using-ml.vercel.app/) |
+  | Video Forgery Detector | Suhani Triphathi | [Visit](https://video-forgery-detector-2.onrender.com/) |
 
   ## Features
 
